@@ -24,24 +24,24 @@ todo_app/.tox/
 todo_app/.nox/
 
 # React
-todo_frontend/node_modules/
-todo_frontend/.next/
-todo_frontend/.env
-todo_frontend/.env.local
-todo_frontend/.env.development
-todo_frontend/.env.test
-todo_frontend/.env.production
-todo_frontend/.pnp/
-todo_frontend/.pnp.js
-todo_frontend/coverage/
-todo_frontend/dist/
-todo_frontend/build/
-todo_frontend/.cache/
-todo_frontend/.gitignore
-todo_frontend/.DS_Store
-todo_frontend/yarn-error.log
-todo_frontend/yarn.lock
-todo_frontend/package-lock.json
+todo-frontend/node_modules/
+todo-frontend/.next/
+todo-frontend/.env
+todo-frontend/.env.local
+todo-frontend/.env.development
+todo-frontend/.env.test
+todo-frontend/.env.production
+todo-frontend/.pnp/
+todo-frontend/.pnp.js
+todo-frontend/coverage/
+todo-frontend/dist/
+todo-frontend/build/
+todo-frontend/.cache/
+todo-frontend/.gitignore
+todo-frontend/.DS_Store
+todo-frontend/yarn-error.log
+todo-frontend/yarn.lock
+todo-frontend/package-lock.json
 
 # OS-specific files
 .DS_Store
